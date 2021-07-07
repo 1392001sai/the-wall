@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - missile
+  - ground
+  - StunShield
+  - ScoreScreen
+  - SetUpScreen
+  - wall
+  - PowerUp
+  - Parachute
+  - Boundary
+  - TransitionPanel
+  - LevelPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Boundary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player1
+    uniqueID: 256063503
+    locked: 0
+  - name: Player2
+    uniqueID: 132766661
+    locked: 0
+  - name: Player3
+    uniqueID: 2009838451
+    locked: 0
+  - name: Player4
+    uniqueID: 1501542617
+    locked: 0
+  - name: Overlay
+    uniqueID: 3164885231
+    locked: 0
+  - name: wall
+    uniqueID: 743352129
+    locked: 0
